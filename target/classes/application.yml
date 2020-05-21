@@ -1,0 +1,9 @@
+#
+#   JDBC properties
+#
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5432/tournamentdb
+    username: tournamentrole
+    password: bartek98
+    pool-size: 30
